@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+weather.py
+api_weather_fetcher_cli.egg-info/PKG-INFO
+api_weather_fetcher_cli.egg-info/SOURCES.txt
+api_weather_fetcher_cli.egg-info/dependency_links.txt
+api_weather_fetcher_cli.egg-info/entry_points.txt
+api_weather_fetcher_cli.egg-info/requires.txt
+api_weather_fetcher_cli.egg-info/top_level.txt
