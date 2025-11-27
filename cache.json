@@ -1,0 +1,173 @@
+{
+    "london": {
+        "data": {
+            "city": "London",
+            "temperature": 7.66,
+            "humidity": 68,
+            "description": "few clouds"
+        },
+        "timestamp": 1763392557.183158
+    },
+    "tokyo": {
+        "data": {
+            "city": "Tokyo",
+            "temperature": 13.19,
+            "humidity": 57,
+            "description": "heavy intensity rain"
+        },
+        "timestamp": 1763010446.866457
+    },
+    "new york": {
+        "data": {
+            "city": "New York",
+            "temperature": 47.21,
+            "humidity": 65,
+            "description": "clear sky"
+        },
+        "timestamp": 1763019495.2894115
+    },
+    "india": {
+        "data": {
+            "city": "Innichen",
+            "temperature": -3,
+            "humidity": 100,
+            "description": "broken clouds"
+        },
+        "timestamp": 1763020082.8926806
+    },
+    "hyderabad": {
+        "data": {
+            "city": "Hyderabad",
+            "temperature": 22.23,
+            "humidity": 49,
+            "description": "haze"
+        },
+        "timestamp": 1763387438.7643397
+    },
+    "nalgonda": {
+        "data": {
+            "city": "Nalgonda",
+            "temperature": 27.43,
+            "humidity": 42,
+            "description": "clear sky"
+        },
+        "timestamp": 1763020342.816347
+    },
+    "mahbubnagar": {
+        "data": {
+            "city": "Mahb\u016bbnagar",
+            "temperature": 26.97,
+            "humidity": 36,
+            "description": "clear sky"
+        },
+        "timestamp": 1763020474.6819477
+    },
+    "jaipur": {
+        "data": {
+            "city": "Jaipur",
+            "temperature": 76.32,
+            "humidity": 23,
+            "description": "haze"
+        },
+        "timestamp": 1763189546.6174908
+    },
+    "delhi": {
+        "data": {
+            "city": "Delhi",
+            "temperature": 23.05,
+            "humidity": 40,
+            "description": "smoke"
+        },
+        "timestamp": 1764226586.4498713
+    },
+    "vijayawada": {
+        "data": {
+            "city": "Vijayawada",
+            "temperature": 22.97,
+            "humidity": 83,
+            "description": "haze"
+        },
+        "timestamp": 1764167198.236048
+    },
+    "khammam": {
+        "data": {
+            "city": "Khammam",
+            "temperature": 25.97,
+            "humidity": 50,
+            "description": "clear sky"
+        },
+        "timestamp": 1763189025.902628
+    },
+    "nagpur": {
+        "data": {
+            "city": "Nagpur",
+            "temperature": 17.01,
+            "humidity": 63,
+            "description": "haze"
+        },
+        "timestamp": 1763387608.8350842
+    },
+    "ahmedabad": {
+        "data": {
+            "city": "Ahmedabad",
+            "temperature": 24.02,
+            "humidity": 31,
+            "description": "smoke"
+        },
+        "timestamp": 1763387651.762334
+    },
+    "kolkata": {
+        "data": {
+            "city": "Kolkata",
+            "temperature": 23.97,
+            "humidity": 60,
+            "description": "haze"
+        },
+        "timestamp": 1763392537.9147363
+    },
+    "midnapore": {
+        "data": {
+            "city": "Midnapore",
+            "temperature": 2.88,
+            "humidity": 86,
+            "description": "overcast clouds"
+        },
+        "timestamp": 1763392585.3365195
+    },
+    "kontai": {
+        "data": {
+            "city": "Kontai",
+            "temperature": 20.77,
+            "humidity": 60,
+            "description": "clear sky"
+        },
+        "timestamp": 1763392598.6845381
+    },
+    "goa": {
+        "data": {
+            "city": "Goa",
+            "temperature": 30.21,
+            "humidity": 37,
+            "description": "scattered clouds"
+        },
+        "timestamp": 1764055810.073386
+    },
+    "varanasi": {
+        "data": {
+            "city": "Varanasi",
+            "temperature": 25.05,
+            "humidity": 36,
+            "description": "haze"
+        },
+        "timestamp": 1764055976.6883764
+    },
+    "medchal": {
+        "data": {
+            "city": "Medchal",
+            "temperature": 22.68,
+            "humidity": 65,
+            "description": "scattered clouds"
+        },
+        "timestamp": 1764167251.7499917
+    }
+}
